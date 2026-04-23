@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|c:\\users\\desarrollo\\documents\\react\\pruebacrud\\apiempresa\\apiempresa\\app_start\\corspreflighthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|solutionrelative:apiempresa\\app_start\\corspreflighthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|c:\\users\\desarrollo\\documents\\react\\pruebacrud\\apiempresa\\apiempresa\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|solutionrelative:apiempresa\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|c:\\users\\desarrollo\\documents\\react\\pruebacrud\\apiempresa\\apiempresa\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|solutionrelative:apiempresa\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiempresa\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|solutionrelative:apiempresa\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiempresa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|solutionrelative:apiempresa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiempresa\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|solutionrelative:apiempresa\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiempresa\\controllers\\empleadosrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|solutionrelative:apiempresa\\controllers\\empleadosrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiempresa\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|solutionrelative:apiempresa\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiempresa\\models\\modelempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFE103-C624-46F4-ADDE-AA20E285C6D0}|apiEmpresa\\apiEmpresa.csproj|solutionrelative:apiempresa\\models\\modelempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorsPreflightHandler.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\App_Start\\CorsPreflightHandler.cs",
+              "RelativeDocumentMoniker": "apiEmpresa\\App_Start\\CorsPreflightHandler.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\App_Start\\CorsPreflightHandler.cs",
+              "RelativeToolTip": "apiEmpresa\\App_Start\\CorsPreflightHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T23:17:42.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Global.asax.cs",
+              "RelativeDocumentMoniker": "apiEmpresa\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Global.asax.cs",
+              "RelativeToolTip": "apiEmpresa\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T23:16:15.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "apiEmpresa\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "apiEmpresa\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:12:17.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Web.config",
+              "RelativeDocumentMoniker": "apiEmpresa\\Web.config",
+              "ToolTip": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Web.config",
+              "RelativeToolTip": "apiEmpresa\\Web.config",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-23T22:09:45.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "apiEmpresa\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "apiEmpresa\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:39:34.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "apiEmpresa\\Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "apiEmpresa\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:39:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpleadosRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Controllers\\EmpleadosRolesController.cs",
+              "RelativeDocumentMoniker": "apiEmpresa\\Controllers\\EmpleadosRolesController.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Controllers\\EmpleadosRolesController.cs",
+              "RelativeToolTip": "apiEmpresa\\Controllers\\EmpleadosRolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:38:22.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "apiEmpresa\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "apiEmpresa\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:36:49.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Models\\ModelEmpresa.cs",
+              "RelativeDocumentMoniker": "apiEmpresa\\Models\\ModelEmpresa.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Documents\\React\\pruebaCrud\\apiEmpresa\\apiEmpresa\\Models\\ModelEmpresa.cs",
+              "RelativeToolTip": "apiEmpresa\\Models\\ModelEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:33:38.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
